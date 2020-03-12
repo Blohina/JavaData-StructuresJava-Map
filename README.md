@@ -20,24 +20,34 @@ Output Format
 
 For each case, print "Not found" if the person has no entry in the phone book. Otherwise, print the person's name and phone number. See sample output for the exact format.
 
-To make the problem easier, we provided a portion of the code in the editor. You can either complete that code or write completely on your own.
+
 
 Sample Input
 
 3
 uncle sam
+
 99912222
+
 tom
+
 11122222
+
 harry
+
 12299933
+
 uncle sam
+
 uncle tom
+
 harry
 
 Sample Output
 
 uncle sam=99912222
+
 Not found
+
 harry=12299933
 
